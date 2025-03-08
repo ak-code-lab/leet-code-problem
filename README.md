@@ -49,6 +49,6 @@ This repository is available under the AK Code Lab License. Feel free to use the
 
 ## Contact
 
-For any questions or feedback, please reach out to AK Code Lab at contact@akcobelab.com.
+For any questions or feedback, please reach out to AK Code Lab at contact@akcobelab.in.
 
 Happy Coding!
